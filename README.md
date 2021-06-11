@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/qt-legion/lab09.svg?branch=main)](https://travis-ci.com/qt-legion/lab09)
+
 ## Laboratory work IX
 
 <a href="https://yandex.ru/efir/?stream_id=vYrKRcFKi46o"><img src="https://raw.githubusercontent.com/tp-labs/lab09/master/preview.png" width="640"/></a>
